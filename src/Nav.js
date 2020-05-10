@@ -10,13 +10,13 @@ class Nav extends React.Component {
       return (
        <div>
         <div>
-         <link href="index.html" alt="Portfolio">Portfolio</link>
+         <a href="index.html" alt="Portfolio">Portfolio</a>
         </div>
         <div>
          <img src={logo}/>
         </div>
         <div>
-         <link href="resume.html" alt="Resume">Resume</link>
+         <a href="resume.html" alt="Resume">Resume</a>
         </div>
        </div>
       );
