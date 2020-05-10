@@ -5,7 +5,7 @@ import { Link, withRouter } from "react-router-dom";
 // imports logo???
 import logo from './AHDevStudio.png';
 
-function Nav(props) {
+function Navigation() {
  return (
   <div className="myNav">
    <nav>
@@ -22,4 +22,4 @@ function Nav(props) {
   );
 }
 
-export default withRouter(Nav);
+export default withRouter(Navigation);
