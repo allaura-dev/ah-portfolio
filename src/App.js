@@ -1,15 +1,14 @@
 
 import React from "react"
-import ReactDOM from "react-dom"
 import './App.css'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import {Portfolio , Resume, Projects, Designs} from "./components";
+import { Navigation, Portfolio, Resume } from "./components";
 
 function App() {
     return (
       <div className="App">
         <Router>
-          <Nav />
+          <Navigation />
           <Switch>
             <Route path="/" exact component={() => <Portfolio/>} />
             <Route path="/resume" exact component={() => <Resume />} />
@@ -19,4 +18,4 @@ function App() {
     );
   }
   
-  export default App;
+ export default App;

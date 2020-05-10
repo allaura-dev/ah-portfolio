@@ -3,10 +3,15 @@ import React from "react";
 
 
 function Resume() {
+ 
  return (
-  <div >
-   <h1>Home On the page</h1>
-  </div>
+  <head>
+    <title>Resume</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
   );
 }
 
