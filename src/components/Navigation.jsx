@@ -7,7 +7,7 @@ import { Link, withRouter } from "react-router-dom";
 
 function Navigation() {
  return (
-  <div className="myNav">
+  <div id="myNav">
    <nav>
     <ul class="navList">
      <li class="myNavLinks">

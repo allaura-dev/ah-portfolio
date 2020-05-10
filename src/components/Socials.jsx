@@ -4,7 +4,7 @@ import './Socials.css';
 
 function Socials() {
  return (
-  <div >
+  <div id="socials">
    <h4>The Tweeter</h4>
   </div>
  );

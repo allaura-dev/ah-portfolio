@@ -8,7 +8,7 @@ import AboutMe from "./AboutMe.jsx";
 
 function Portfolio() {
  return (
-  <div >
+  <div id="portfolioDiv">
    <Welcome />
    <Projects />
    <AboutMe />
