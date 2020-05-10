@@ -1,17 +1,12 @@
 
 import React from "react";
-
+import './Resume.css';
 
 function Resume() {
- 
  return (
-  <head>
-    <title>Resume</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-  </body>
+  <div >
+   <h1>Home On the page</h1>
+  </div>
   );
 }
 
