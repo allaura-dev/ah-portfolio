@@ -11,7 +11,7 @@ function App() {
    <Socials />
    <Navigation />
    <Switch>
-    <Route path="/" exact component={() => <Portfolio/>} />
+    <Route path="/portfolio" exact component={() => <Portfolio/>} />
     <Route path="/resume" exact component={() => <Resume />} />
    </Switch>
    </Router>

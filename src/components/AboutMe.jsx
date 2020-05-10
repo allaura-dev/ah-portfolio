@@ -2,7 +2,7 @@
 import React from "react";
 import './AboutMe.css';
 
-function Skills() {
+function AboutMe() {
  return (
   <div id="AboutDiv">
    <h2>About Me</h2>
@@ -11,4 +11,4 @@ function Skills() {
  );
 }
 
-export default Skills;
+export default AboutMe;

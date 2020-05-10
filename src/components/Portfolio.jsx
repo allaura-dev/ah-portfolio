@@ -4,7 +4,7 @@ import './Portfolio.css';
 import Welcome from "./Welcome.jsx";
 import Projects from "./Projects.jsx";
 import Designs from "./Designs.jsx";
-import Skills from "./AboutMe.jsx";
+import AboutMe from "./AboutMe.jsx";
 
 function Portfolio() {
  return (
