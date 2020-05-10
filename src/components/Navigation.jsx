@@ -9,17 +9,17 @@ function Navigation() {
  return (
   <div className="myNav">
    <nav>
-     <ul class="navList">
-      <li class="myNavLinks">
+    <ul class="navList">
+     <li class="myNavLinks">
        <Link to="/"> Portfolio </Link>
-      </li>
-      <li class="myNavLinks">
+     </li>
+     <li class="myNavLinks">
        <Link to="/resume"> Resume </Link>
-      </li>
-     </ul>      
-    </nav>
+     </li>
+    </ul>      
+   </nav>
   </div>
-  );
+ );
 }
 
 export default withRouter(Navigation);
