@@ -1,0 +1,31 @@
+
+#myNav{
+ color: #E7E7E7;
+ width: 80%;
+ text-align: center;
+ margin: 0 10%;
+ text-decoration: none;
+}
+ li :hover{
+  font-size: 1.4em;
+ }
+  li :visited{
+   color: whitesmoke;
+  }
+ul{
+ list-style: none;  
+ font-size: 1.2em;
+}
+ ul li{
+  display: inline;
+  
+ }
+#leftNav{
+ padding-right: 130px
+}
+#rightNav{
+ padding-left: 130px;
+}
+.NavLinks{
+    text-decoration: none;
+}

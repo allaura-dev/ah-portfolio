@@ -1,0 +1,11 @@
+
+#resumeDiv {
+ position: absolute;
+ margin: 0 10%;
+ padding: 10px;
+ background: whitesmoke;
+ color: black;
+ width: 80%;
+ box-shadow: -1px 5px 10px 10px black;
+ float: left;
+}

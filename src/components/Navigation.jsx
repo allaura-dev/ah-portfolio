@@ -9,12 +9,12 @@ function Navigation() {
  return (
   <div id="myNav">
    <nav>
-    <ul class="navList">
-     <li class="myNavLinks">
-       <Link to="/portfolio">Portfolio</Link>
+    <ul id="navList">
+     <li id="leftNav">
+       <Link to="/portfolio" class="NavLinks">Portfolio</Link>
      </li>
-     <li class="myNavLinks">
-       <Link to="/resume">Resume</Link>
+     <li id="rightNav">
+       <Link to="/resume" class="NavLinks">Resume</Link>
      </li>
     </ul>      
    </nav>
