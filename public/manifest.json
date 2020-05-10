@@ -3,9 +3,7 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "./AH!DevStudio.png",
-      "type": "image/png",
-      "sizes": "300x300"
+      
     }
   ],
   "start_url": ".",
