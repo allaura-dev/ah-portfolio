@@ -4,7 +4,7 @@
 .Logos{
  height: 200px;
  width: 200px;
- margin: 0 auto 10% auto;
+ margin: 0 auto 11% auto;
 }
 #OutterLogos{
  width: 100%;
@@ -26,4 +26,10 @@ h3, h6{
  text-align: center;
  width: 100%;
  padding: 0;
+}
+.carousel .control-dots .dot{
+ opacity: 0.1;
+}
+.carousel .control-dots .dot.selected, .carousel .control-dots .dot:hover{
+ opacity: 0.4;
 }

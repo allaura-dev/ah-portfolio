@@ -21,3 +21,17 @@
 .carousel .thumbs-wrapper{
  display: none;
 }
+.carousel .control-dots {
+ position: absolute;
+ margin: 0;
+ text-align: center;
+ width: 100%;
+ padding: 0;
+}
+.carousel .control-dots .dot{
+ opacity: 0.1;
+}
+.carousel .control-dots .dot.selected, .carousel .control-dots .dot:hover{
+ opacity: 0.4;
+}
+   
