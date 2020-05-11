@@ -1,0 +1,18 @@
+
+#OutterWelcome{
+ width: 80%;
+ margin: 0% 10%;
+}
+#WelcomeDiv{
+ width: 100%;
+}
+ #WelcomeDiv h2, h3{
+  text-align: center;
+  margin-bottom: 0;
+ }
+#catchLine{
+ font-style: italic;
+ font-weight: 500;
+ font-size: 2em;
+ text-align: center;
+}

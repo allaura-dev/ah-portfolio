@@ -1,0 +1,12 @@
+
+#OutterAbout{
+ width: 80%;
+ margin: 0% 10%;
+}
+#AboutDiv{
+ width: 100%;
+}
+#AboutDiv h2{
+ text-align: center;
+ margin-bottom: 0;
+}

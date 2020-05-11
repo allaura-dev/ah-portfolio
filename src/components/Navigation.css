@@ -7,7 +7,8 @@
 }
 
  li :hover{
-  font-size: 1.4em;
+  font-weight: 600;
+  font-style: italic;
  }
   li :visited{
    color: #E7E7E7;
@@ -35,7 +36,7 @@ ul{
 #NavLogo{
   float: left;
   padding-top: 30px;
-  margin: -4% 45%;
+  margin: -4% 43.5%;
 }
 
 #Logo{
