@@ -1,0 +1,23 @@
+
+#Mobile{
+ height: 306px;
+ width: 204px;
+ margin: 0 auto;
+}
+.SiteMock{
+ height: 266px;
+ width: 320px;
+ margin: 0 auto;
+}
+#OutterMockUps{
+ width: 100%;
+ background: #393232;
+ float: left;
+ text-align: center;
+}
+.carousel .slide{
+ background: #393232;
+}
+.carousel .thumbs-wrapper{
+ display: none;
+}

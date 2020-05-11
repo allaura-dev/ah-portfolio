@@ -1,0 +1,29 @@
+.carousel .thumbs-wrapper{
+ display: none;
+}
+.Logos{
+ height: 200px;
+ width: 200px;
+ margin: 0 auto 10% auto;
+}
+#OutterLogos{
+ width: 100%;
+ background: #393232;
+ float: left;
+ text-align: center;
+ margin: 0;
+}
+.carousel .slide{
+ background: #393232;
+}
+h3, h6{
+ padding: 0;
+ margin: 0;
+}
+.carousel .control-dots {
+ position: absolute;
+ margin: 0;
+ text-align: center;
+ width: 100%;
+ padding: 0;
+}
