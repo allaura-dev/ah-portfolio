@@ -9,3 +9,9 @@
  box-shadow: 15px 10px 10px black;
  float: left;
 }
+#socials{
+ float: left;
+ width: 100%;
+ margin: 10% 45%;
+ align-content: center;
+}

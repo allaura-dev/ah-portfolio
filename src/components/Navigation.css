@@ -21,10 +21,12 @@ ul{
   
  }
 #leftNav{
- padding-right: 50px;
+ text-align: right;
+ padding: 20px;
 }
 #rightNav{
- padding-left: 50px;
+  text-align: left;
+  padding: 50px
 }
 .NavLinks{
     text-decoration: none;
@@ -32,7 +34,8 @@ ul{
 
 #NavLogo{
   float: left;
-  margin: -5% 46%;
+  padding-top: 30px;
+  margin: -4% 45%;
 }
 
 #Logo{
