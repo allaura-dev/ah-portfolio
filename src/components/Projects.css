@@ -1,8 +1,20 @@
+
 #ProjectsDiv{
  width: 80%;
  margin: 0% 10%;
+ background: #393232;
 }
-#AboutDiv{
- width: 100%;
+#ProjectsBlurb {
+ width: 40%;
 }
-
+#ProjectsVideos{
+ width: 59%;
+}
+li :hover{
+ font-style: normal;
+ font-weight: unset;
+}
+.noHover :hover{
+    font-style: normal;
+    font-weight: unset;
+}

@@ -1,6 +1,5 @@
 
 #resumeDiv {
- position: absolute;
  margin: 0 10%;
  padding: 10px;
  background: whitesmoke;
@@ -12,6 +11,6 @@
 #socials{
  float: left;
  width: 100%;
- margin: 10% 45%;
+ margin: 0 45%;
  align-content: center;
 }
