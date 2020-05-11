@@ -14,3 +14,35 @@
  margin: 0 45%;
  align-content: center;
 }
+.Resume{
+ display: grid;
+}
+p {
+ margin:0;
+ padding:0;
+ font-weight: 600;
+}
+.ital{
+ font-style: italic;
+ font-weight: unset;
+}
+#SkillsLeft{
+ display: inline;
+}
+ #SkillsLeft li{
+    float: left;
+    width: 50%;
+ }
+#SkillsRight{
+ display: inline;
+}
+#SkillsRight li{
+    float: left;
+    width: 50%;
+}
+#Skills{
+ display: inline;
+}
+ #Skills li{
+  display: grid;
+ }

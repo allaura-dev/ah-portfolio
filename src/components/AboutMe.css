@@ -10,3 +10,15 @@
  text-align: center;
  margin-bottom: 0;
 }
+#aboutPic{
+ float: left;
+ width: 40%;
+}
+#aboutText{
+ float: left;
+ width: 60%;
+}
+#Me{
+    width: 230px;
+    height: 230px;
+}
