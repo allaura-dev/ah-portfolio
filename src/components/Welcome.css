@@ -19,3 +19,6 @@
 #WelcomeDiv h3{
  margin-bottom: 15px;
 }
+#welcome{
+ font-weight: unset;
+}
