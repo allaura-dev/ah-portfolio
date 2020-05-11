@@ -1,16 +1,16 @@
 
-#myNav{
+.NavBarFull{
  color: #E7E7E7;
- width: 80%;
  text-align: center;
- margin: 0 10%;
  text-decoration: none;
+ padding-bottom: 10px;
 }
+
  li :hover{
   font-size: 1.4em;
  }
   li :visited{
-   color: whitesmoke;
+   color: #E7E7E7;
   }
 ul{
  list-style: none;  
@@ -21,11 +21,21 @@ ul{
   
  }
 #leftNav{
- padding-right: 130px
+ padding-right: 50px;
 }
 #rightNav{
- padding-left: 130px;
+ padding-left: 50px;
 }
 .NavLinks{
     text-decoration: none;
+}
+
+#NavLogo{
+  float: left;
+  margin: -5% 46%;
+}
+
+#Logo{
+  height: 150px;
+  width: 150px;
 }
