@@ -9,17 +9,15 @@
  width: 320px;
  margin: 0 auto;
 }
+
 #OutterMockUps{
  width: 100%;
- background: #393232;
  float: left;
  text-align: center;
 }
-.carousel .slide{
- background: #393232;
-}
 .carousel .thumbs-wrapper{
  display: none;
+ padding: 10px
 }
 .carousel .control-dots {
  position: absolute;

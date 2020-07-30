@@ -23,7 +23,7 @@ class Logos extends React.Component {
     <Carousel>
      <div class="Logos">
       <img src={ AHDev } alt="AH ! logo" />
-      <h3>AH! Dev Studio</h3>
+      <h4>AH! Dev Studio</h4>
      </div>
      <div class="Logos">
       <img src={ AHDevO } alt="AH O logo" />
@@ -53,7 +53,6 @@ class Logos extends React.Component {
      </div>
     </Carousel>
    </div>
-
   );
  }
 }
