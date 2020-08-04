@@ -27,19 +27,19 @@ class Logos extends React.Component {
      </div>
      <div class="Logos">
       <img src={ AHDevO } alt="AH O logo" />
-      <h3>AH! Dev Studio</h3>
+      <h4>AH! Dev Studio</h4>
      </div>
      <div class="Logos">
       <img src={ AHSimple } alt="AH Simple logo" />
-      <h3>AH! Dev Studio</h3>
+      <h4>AH! Dev Studio</h4>
      </div>
      <div class="Logos">
       <img src={ HSSO } alt="Hanley Solid Solutions O logo" />
-      <h3>Hanley Solid Solutions</h3>
+      <h4>Hanley Solid Solutions</h4>
      </div>
      <div class="Logos">
       <img src={ HSSHex } alt="Hanley Solid Solutions Hexagon logo" />
-      <h3>Hanley Solid Solutions</h3>
+      <h4>Hanley Solid Solutions</h4>
      </div>
      <div class="Logos">
       <img src={ Strick } alt="Strick Athletics logo" />

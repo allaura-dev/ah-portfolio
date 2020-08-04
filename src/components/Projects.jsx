@@ -15,7 +15,7 @@ class Projects extends React.Component {
       <p>In app game created using Java.</p>
      </div>
      <div class="ProjectVideos">
-      <h2>Video Here</h2>
+      <h2>Video Coming Soon</h2>
      </div>
     </div>
     <div class="Project">
