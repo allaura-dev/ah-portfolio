@@ -1,0 +1,43 @@
+/* carousel manipulation applies on the mock ups and logos*/
+.carousel .control-dots {
+ position: absolute;
+ margin: 5% 0 0 0;
+ text-align: center;
+ width: 100%;
+ padding: 0;
+}
+.carousel .control-dots .dot{
+ opacity: 0.1;
+}
+.carousel .control-dots .dot.selected, .carousel .control-dots .dot:hover{
+ opacity: 0.4;
+}
+.carousel .slide img {
+ margin: 8% 0;
+}
+.carousel .thumbs-wrapper{
+ display: none;
+ padding: 10px
+}
+.carousel .slide{
+ background: #393232;
+ padding: 0px;
+ border-radius: 10px;
+}
+.carousel-status{
+ margin-right: 9px;
+ margin-top: 3px;
+}
+.carousel .control-dots{
+ bottom: 5px;
+}
+
+h4 {
+ padding: 0;
+ margin: 0;
+}
+#borderIt {
+ border-radius: 5px;
+ border: 1px solid white;
+}
+   

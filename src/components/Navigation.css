@@ -1,11 +1,14 @@
 
 .NavBarFull{
  color: #E7E7E7;
+ width: 100%;
+ float: left;
  text-align: center;
  text-decoration: none;
- padding-bottom: 10px;
-}
+ margin: 0;
+ padding:0;
 
+}
  li :hover{
   font-weight: 600;
   font-style: italic;
@@ -21,25 +24,18 @@ ul{
   display: inline;
   
  }
-#leftNav{
- text-align: right;
- padding: 20px;
-}
-#rightNav{
-  text-align: left;
-  padding: 50px
+
+#resumeNav{
+ float: left;
+ width: 100px;
+ font-weight: 1200;
+ margin-right: -100px;
+ padding: 0;
 }
 .NavLinks{
-    text-decoration: none;
+ text-decoration: none;
 }
-
-#NavLogo{
-  float: left;
-  padding-top: 30px;
-  margin: -4% 41.5%;
-}
-
 #Logo{
   height: 150px;
-  width: 150px;
+  width: 150Px;
 }

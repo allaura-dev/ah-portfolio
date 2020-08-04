@@ -10,18 +10,16 @@ import logo from './Logos/AHDevStudio.png';
 function Navigation() {
  return (
   <div class="NavBarFull">
-   <div id="NavLogo">
-    <img src={ logo } alt="Main Logo" id="Logo" />
-   </div>
    <div id="myNav">
     <nav>
      <ul id="navList">
-      <li id="leftNav">
-        <Link to="/portfolio" class="NavLinks">Portfolio</Link>
-      </li>
-      <li id="rightNav">
+     <li id="resumeNav">
         <Link to="/resume" class="NavLinks">Resume</Link>
       </li>
+      <li id="logoNav">
+        <Link to="/portfolio"><img src={ logo } alt="Main Logo" id="Logo"/></Link>
+      </li>
+
      </ul>      
     </nav>
    </div>

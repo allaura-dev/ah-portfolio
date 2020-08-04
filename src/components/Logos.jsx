@@ -1,5 +1,6 @@
 
 import React from "react";
+import './Carousel.css';
 import './Logos.css';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
@@ -10,8 +11,10 @@ import AHDevO from './Logos/AHDevStudioCircle.png';
 import AHSimple from './Logos/AHSimple.png';
 import HSSO from './Logos/HanleySolidSolutions.png';
 import HSSHex from './Logos/HanleySolidSolutions2.png';
-import Strick from './Logos/Strick.png';
-import HShield from './Logos/HShield.png';
+import MovieMaven from './Logos/MovieMaven.png';
+import BillGuru from './Logos/BillGuru.png';
+import SkellyFly from './Logos/SkellyFly.png';
+import SkellyFlyO from './Logos/SkellyFlyCircle.png';
 
 
 
@@ -42,14 +45,20 @@ class Logos extends React.Component {
       <h4>Hanley Solid Solutions</h4>
      </div>
      <div class="Logos">
-      <img src={ Strick } alt="Strick Athletics logo" />
-      <h3>Practice- Strick Athletics</h3>
-      <h6>not a real company</h6>
+      <img src={ MovieMaven } alt="Movie Maven Logo" />
+      <h4>Logo for Movie Maven Site</h4>
      </div>
      <div class="Logos">
-      <img src={ HShield } alt="Hudson's Shield logo" />
-      <h3>Practice- Hudson's Shields</h3>
-      <h6>not a real company</h6>
+      <img id="borderIt" src={ BillGuru } alt="Bill Guru logo" />
+      <h4>Logo for Bill Guru project</h4>
+     </div>
+     <div class="Logos">
+      <img src={ SkellyFly } alt="Skelly Fly " />
+      <h4>Skelly Fly for Chaos Shop</h4>
+     </div>
+     <div class="Logos">
+      <img src={ SkellyFlyO } alt="Skelly Fly in Cirlcle" />
+      <h4>Skelly Fly for Chaos Shop Alt Version</h4>
      </div>
     </Carousel>
    </div>

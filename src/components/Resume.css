@@ -7,11 +7,12 @@
  width: 80%;
  box-shadow: 15px 10px 10px black;
  float: left;
+ padding-left: 30px;
 }
 #socials{
- float: left;
+ float: right;
  width: 100%;
- margin: 0 45%;
+ margin: 0 auto;
  align-content: center;
 }
 .Resume{
@@ -26,20 +27,13 @@ p {
  font-style: italic;
  font-weight: unset;
 }
-#SkillsLeft{
+#SkillsList{
  display: inline;
 }
- #SkillsLeft li{
+ #SkillsList li{
     float: left;
     width: 50%;
  }
-#SkillsRight{
- display: inline;
-}
-#SkillsRight li{
-    float: left;
-    width: 50%;
-}
 #Skills{
  display: inline;
 }

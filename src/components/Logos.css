@@ -1,9 +1,7 @@
-.carousel .thumbs-wrapper{
- display: none;
-}
+
 .Logos{
- height: 150px;
- width: 150px;
+ height: 160px;
+ width: 160px;
  margin: 0 auto 11% auto;
 }
 #OutterLogos{
@@ -12,24 +10,5 @@
  text-align: center;
  margin: 0;
 }
-.carousel .slide{
- background: #393232;
- padding: 30px;
-}
-h3, h6{
- padding: 0;
- margin: 0;
-}
-.carousel .control-dots {
- position: absolute;
- margin: 0;
- text-align: center;
- width: 100%;
- padding: 0;
-}
-.carousel .control-dots .dot{
- opacity: 0.1;
-}
-.carousel .control-dots .dot.selected, .carousel .control-dots .dot:hover{
- opacity: 0.4;
-}
+
+

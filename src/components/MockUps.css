@@ -1,35 +1,20 @@
 
-#Mobile{
- height: 306px;
- width: 204px;
- margin: 0 auto;
-}
 .SiteMock{
  height: 266px;
  width: 320px;
- margin: 0 auto;
+ margin: 0 auto 11% auto;
 }
 
 #OutterMockUps{
  width: 100%;
  float: left;
  text-align: center;
-}
-.carousel .thumbs-wrapper{
- display: none;
- padding: 10px
-}
-.carousel .control-dots {
- position: absolute;
  margin: 0;
- text-align: center;
- width: 100%;
- padding: 0;
 }
-.carousel .control-dots .dot{
- opacity: 0.1;
+#Mobile{
+ height: 306px;
+ width: 204px;
+ margin: 0 auto;
 }
-.carousel .control-dots .dot.selected, .carousel .control-dots .dot:hover{
- opacity: 0.4;
-}
+
    
