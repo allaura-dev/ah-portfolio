@@ -12,7 +12,7 @@ function App() {
    <Navigation />
 
    <Switch>
-    <Route path="/portfolio" exact component={() => <Portfolio/>} />
+    <Route path="/ah-portfolio" exact component={() => <Portfolio/>} />
     <Route path="/resume" exact component={() => <Resume />} />
    </Switch>
 
