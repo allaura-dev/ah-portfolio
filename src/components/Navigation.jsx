@@ -17,7 +17,7 @@ function Navigation() {
         <Link to="/resume" class="NavLinks">Resume</Link>
       </li>
       <li id="logoNav">
-        <Link to="/portfolio"><img src={ logo } alt="Main Logo" id="Logo"/></Link>
+        <Link to="/ah-portfolio"><img src={ logo } alt="Main Logo" id="Logo"/></Link>
       </li>
 
      </ul>      
