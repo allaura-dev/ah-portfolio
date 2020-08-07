@@ -8,12 +8,16 @@ function App() {
  return (
   <div className="App">
    <Router>
+    
    <Navigation />
+
    <Switch>
     <Route path="/portfolio" exact component={() => <Portfolio/>} />
     <Route path="/resume" exact component={() => <Resume />} />
    </Switch>
+
    <Socials />
+   
    </Router>
   </div>
  );
