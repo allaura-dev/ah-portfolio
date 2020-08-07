@@ -7,7 +7,7 @@ function Resume() {
   
    <div id="resumeDiv">
     <h1>OBJECTIVE</h1>
-    <p>Pursuing a Front End Web Developer Position at Northern Commerce, using my skills I have learned either on my own or through my 14 month course to help continue the success of the company.</p>
+    <p>Pursuing a Front End and/or Back Web Developer Position using my skills I have learned either on my own or through my 14 month course to help continue the success of the company.</p>
     <h1>PROFESSIONAL SUMMARY</h1>
     <ul class="Resume">
       <li>-Detail oriented and timely on tasks.</li>
@@ -65,7 +65,7 @@ function Resume() {
     <h3>Clean Up Crew</h3>
     <p>Toronto Zoo</p>
     <p class="ital">September 2019</p><br />
-    <p class="ital"><br />Please reach out to my on my LinkedIn for my email and phone contacts.<br /></p>
+    <p class="ital"><br />Please reach out to me on my LinkedIn for my email and phone contacts.<br /></p>
    </div>
 
  );
